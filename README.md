@@ -11,7 +11,7 @@
 
 ### Well done, you're on your way to fluency!
 
->If you're serious about learning Lojban, consider supporting [the proposal for a Lojban StackExchange](area51.stackexchange.com/proposals/103478/lojban-the-logical-language), to make learning Lojban a smoother experience for you, other learners, and teachers
+>If you're serious about learning Lojban, consider supporting [the proposal for a Lojban StackExchange](https://area51.stackexchange.com/proposals/103478/lojban-the-logical-language), to make learning Lojban a smoother experience for you, other learners, and teachers
 
 ### Next, do these in parallel:
 + make your own sentences, use [sutysisku](https://la-lojban.github.io/sutysisku/en/) or [vlasisku](http://vlasisku.lojban.org/) for looking up words or concepts and use [camxes](http://camxes.lojban.org/) to see if you're using correct grammar. For more advanced users: [1](http://mw.lojban.org/extensions/ilmentufa/glosser/glosser.htm) [2](http://lojban.github.io/ilmentufa/camxes.html)
