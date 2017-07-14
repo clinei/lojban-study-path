@@ -2,7 +2,7 @@
 
 + [la karda](https://mw.lojban.org/papri/la_karda) or [a quick tutorial on the base grammar aimed at programmers](https://www.reddit.com/r/lojban/comments/52ixxs/lojban_demystified_a_beginners_quick_start_xpost/)
 + learn the pronunciation [here](http://www.lojban.org/publications/level0/brochure-utf/phonol.html) ([or here](https://lojban.github.io/cll/3/10/)) or using [a soundboard](https://la-lojban.github.io/sutysisku/cirkotci.html)
-+ (use [sutysisku](https://la-lojban.github.io/sutysisku/en/) if you wanna look up words in the next ones)
++ (use [la sutysisku](https://la-lojban.github.io/sutysisku/en/) if you wanna look up words in the next ones)
 + read [Lojban in Simple Phrases](https://docs.google.com/presentation/d/1Yrxt9gAtqA_oSDD76Toq8VLSZjjOxJ5rkKsxFs3Cw8E/pub?start=true&loop=false&delayms=10000)
 + read [a translated picture book](https://mw.lojban.org/images/4/46/la_stika.pdf)
 + read [la karda](https://mw.lojban.org/papri/la_karda) again or [la gleki's textbook](https://mw.lojban.org/papri/The_Crash_Course_(a_draft))
@@ -14,10 +14,10 @@
 >If you're serious about learning Lojban, consider supporting [the proposal for a Lojban StackExchange](area51.stackexchange.com/proposals/103478/lojban-the-logical-language), to make learning Lojban a smoother experience for you, other learners, and teachers
 
 ### Next, do these in parallel:
-+ make your own sentences, use [sutysisku](https://la-lojban.github.io/sutysisku/en/) or [vlasisku](http://vlasisku.lojban.org/) for looking up words or concepts and use [camxes](http://camxes.lojban.org/) to see if you're using correct grammar. For more advanced users: [1](http://mw.lojban.org/extensions/ilmentufa/glosser/glosser.htm) [2](http://lojban.github.io/ilmentufa/camxes.html)
++ make your own sentences, use [la sutysisku](https://la-lojban.github.io/sutysisku/en/) or [la vlasisku](http://vlasisku.lojban.org/) for looking up words or concepts and use [la camxes](http://camxes.lojban.org/) to see if you're using correct grammar. For more advanced users: [1](http://mw.lojban.org/extensions/ilmentufa/glosser/glosser.htm) [2](http://lojban.github.io/ilmentufa/camxes.html)
 + use the Memrise courses for vocabulary: [1](http://www.memrise.com/course/17297/gismu-places-1-of-4/) [2](http://www.memrise.com/course/17298/gismu-places-2-of-4/) [3](http://www.memrise.com/course/17300/gismu-places-3-of-4/) [4](http://www.memrise.com/course/17301/gismu-places-4-of-4/) (ordered by average frequency)
 + read [translated or original literature](https://mw.lojban.org/papri/te_gerna_la_lojban) or [example sentences on Tatoeba](https://tatoeba.org/eng/sentences/search?query=&from=jbo&to=eng&orphans=no&unapproved=&user=&tags=&has_audio=&trans_filter=limit&trans_to=jbo&trans_link=&trans_user=&trans_orphan=&trans_unapproved=&trans_has_audio=&sort=random) (beware, not all are correct)
-+ read [the CLL reference grammar](http://lojban.github.io/cll/) (if something is not understood, leave it for later or ask on the IRC)
++ read [the CLL reference grammar](http://lojban.org/publications/cll/cll_v1.1_xhtml-section-chunks/) (if something is not understood, leave it for later or ask on the IRC)
 
 
 ### More links:
