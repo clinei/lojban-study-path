@@ -1,6 +1,6 @@
 # Recommended study path for Lojban:
 + [la karda](https://mw.lojban.org/papri/la_karda)
-+ [join the IRC channels](https://kiwiirc.com/client/chat.freenode.net/#lojban,#ckule,#jbosnu) on freenode, #ckule or #lojban
++ [join the IRC channels](https://mw.lojban.org/papri/Lojban_Live_Chat) on freenode, #ckule or #lojban
 
 These next ones should be done in parallel:
 + read [la karda](https://mw.lojban.org/papri/la_karda) again and/or [la gleki's in-progress textbook](https://mw.lojban.org/papri/The_Crash_Course_(a_draft))
