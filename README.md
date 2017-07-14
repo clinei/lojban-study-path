@@ -16,7 +16,7 @@ If you're serious about learning Lojban, please consider supporting [the proposa
 
 More links:
 + https://mw.lojban.org/papri/Welcome!/en#Unofficial_and_supplemental_resources
-+ More feature-rich dictionary searcher (lacks CLL links): https://la-lojban.github.io/sutysisku/en/
++ More feature-rich dictionary searcher: https://la-lojban.github.io/sutysisku/en/
 + Natural language processing on Lojban: http://lojban.lilyx.net/zmifanva/
 + Short journal: https://sites.google.com/site/suzypavlis/lisri
 + A website in Lojban: http://selpahi.de/
