@@ -7,7 +7,7 @@
 + read [a translated picture book](https://mw.lojban.org/images/4/46/la_stika.pdf)
 + read [la karda](https://mw.lojban.org/papri/la_karda) again or [la gleki's textbook](https://mw.lojban.org/papri/The_Crash_Course_(a_draft))
 + read [a bit more advanced texts](https://daeldir.github.io/jbogidva/) (it has useful tooltips that show the translation when you hover over a word or sentence)
-+ join [the Facebook group](https://www.facebook.com/groups/lojban) or [the IRC channels](https://kiwiirc.com/client/chat.freenode.net/#lojban) on freenode #lojban and ask all your tough questions there
++ join [the Facebook group](https://www.facebook.com/groups/lojban) or [the live chat](https://mw.lojban.org/papri/Lojban_Live_Chat) and ask all your tough questions there
 
 ### Well done, you're on your way to fluency!
 
