@@ -11,8 +11,6 @@
 
 ### Well done, you're on your way to fluency!
 
->If you're serious about learning Lojban, consider supporting [the proposal for a Lojban StackExchange](https://area51.stackexchange.com/proposals/103478/lojban-the-logical-language), to make learning Lojban a smoother experience for you, other learners, and teachers
-
 ### Next, do these in parallel:
 + make your own sentences, use [la sutysisku](https://la-lojban.github.io/sutysisku/en/) or [la vlasisku](http://vlasisku.lojban.org/) for looking up words or concepts and use [la camxes](http://camxes.lojban.org/) to see if you're using correct grammar. For more advanced users: [1](http://mw.lojban.org/extensions/ilmentufa/glosser/glosser.htm) [2](http://lojban.github.io/ilmentufa/camxes.html)
 + use the Memrise courses for vocabulary: [1](http://www.memrise.com/course/17297/gismu-places-1-of-4/) [2](http://www.memrise.com/course/17298/gismu-places-2-of-4/) [3](http://www.memrise.com/course/17300/gismu-places-3-of-4/) [4](http://www.memrise.com/course/17301/gismu-places-4-of-4/) (ordered by average frequency)
