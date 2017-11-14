@@ -1,9 +1,8 @@
 # Recommended study path for Lojban:
 
-+ [la karda](https://mw.lojban.org/papri/la_karda) or [a quick tutorial on the base grammar aimed at programmers](https://www.reddit.com/r/lojban/comments/52ixxs/lojban_demystified_a_beginners_quick_start_xpost/)
++ [la karda](https://mw.lojban.org/papri/la_karda) or [a short tutorial on the base grammar](https://docs.google.com/presentation/d/1Yrxt9gAtqA_oSDD76Toq8VLSZjjOxJ5rkKsxFs3Cw8E/pub?start=true&loop=false&delayms=10000) or [a shortcut for programmers](https://www.reddit.com/r/lojban/comments/52ixxs/lojban_demystified_a_beginners_quick_start_xpost/)
 + learn the pronunciation [here](http://www.lojban.org/publications/level0/brochure-utf/phonol.html) ([or here](https://lojban.github.io/cll/3/10/)) or using [a soundboard](https://la-lojban.github.io/sutysisku/cirkotci.html)
 + (use [la sutysisku](https://la-lojban.github.io/sutysisku/en/) if you wanna look up words in the next ones)
-+ read [Lojban in Simple Phrases](https://docs.google.com/presentation/d/1Yrxt9gAtqA_oSDD76Toq8VLSZjjOxJ5rkKsxFs3Cw8E/pub?start=true&loop=false&delayms=10000)
 + read [a translated picture book](https://mw.lojban.org/images/4/46/la_stika.pdf)
 + read [la karda](https://mw.lojban.org/papri/la_karda) again or [la gleki's textbook](https://mw.lojban.org/papri/The_Crash_Course_(a_draft))
 + read [a bit more advanced texts](https://daeldir.github.io/jbogidva/) (it has useful tooltips that show the translation when you hover over a word or sentence)
